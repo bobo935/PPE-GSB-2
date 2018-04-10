@@ -4,7 +4,7 @@ PPE GSB mission 2
 Gestionnaire saisie un fomulaire de connexion et se connecte. Le gestionnaire a la possibilité de supprimer un visiteur médical en le mettant dans un archive
 
 
-
+![alt tag](https://user-images.githubusercontent.com/37068099/38560534-26f6b030-3cd6-11e8-8714-5614a8c25e9d.png)
 
 
 
