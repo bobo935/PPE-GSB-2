@@ -5,7 +5,7 @@ Gestionnaire saisie un fomulaire de connexion et se connecte. Le gestionnaire a 
 
 
 ![alt tag](https://user-images.githubusercontent.com/37068099/38560534-26f6b030-3cd6-11e8-8714-5614a8c25e9d.png)
-
+![alt tag](https://user-images.githubusercontent.com/37068099/38561512-8ab8d966-3cd8-11e8-87c0-352a37498a2e.png)
 
 
 #### Diagramme de Grantt :
